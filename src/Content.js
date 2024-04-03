@@ -58,54 +58,54 @@ export const content = {
     },
   ],
   hero: {
-    title: "Web Developer",
-    firstName: "JOHN",
-    LastName: "ALEX",
-    btnText: "Hire Me",
+    title: "Aidemax Consultant",
+    firstName: "",
+    LastName: "AIDEMAX",
+    btnText: "Hire Us",
     image: Hero_person,
     hero_content: [
       {
-        count: "8+",
-        text: "Years of Experinse in Web development",
+        count: "9+",
+        text: "Years of Experience in Web development",
       },
       {
-        count: "20+",
-        text: "Projects Worked in my career",
+        count: "47+",
+        text: "Projects Worked our my career",
       },
     ],
   },
   skills: {
     title: "Skills",
-    subtitle: "MY TOP SKILLS",
+    subtitle: "OUR TOP SKILLS",
     skills_content: [
       {
         name: "Figma",
-        para: "Lorem ipsum text  dummy",
+        para: "popular tool for designing user interfaces and collaborating on design projects in real-time",
         logo: figma,
       },
       {
         name: "Node js",
-        para: "Lorem ipsum text  dummy",
+        para: "build scalable and efficient server-side applications using JavaScript",
         logo: nodejs,
       },
       {
         name: "Adobe Photoshop",
-        para: "Lorem ipsum text  dummy",
+        para: "Tool for graphic design, photo editing, and creating visual content for web and print",
         logo: ps,
       },
       {
         name: "React js",
-        para: "Lorem ipsum text  dummy",
+        para: "Interactive web applications with reusable components",
         logo: reactjs,
       },
       {
         name: "Sketch",
-        para: "Lorem ipsum text  dummy",
+        para: "create high-fidelity mockups, wireframes, and prototypes for web and mobile applications",
         logo: sketch,
       },
       {
         name: "Python",
-        para: "Lorem ipsum text  dummy",
+        para: " build web applications",
         logo: python,
       },
     ],
@@ -113,28 +113,28 @@ export const content = {
   },
   services: {
     title: "Services",
-    subtitle: "WHAT I OFFER",
+    subtitle: "WHAT WE OFFER",
     service_content: [
       {
         title: "Web Development",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "Crafting customized websites from scratch to meet each client's unique requirements.",
         logo: services_logo1,
       },
       {
         title: "ui / ux DESIGNING",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "Designing visually appealing and user-friendly interfaces that align with the brand's identity and engage users effectively.",
         logo: services_logo2,
       },
       {
         title: "PhotoShop Editing",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "Designing custom graphics, logos, and icons to complement the website's design and branding.",
         logo: services_logo3,
       },
     ],
   },
   Projects: {
     title: "Projects",
-    subtitle: "MY CREATION",
+    subtitle: "OUR CREATION",
     image: person_project,
     project_content: [
       {
@@ -153,64 +153,64 @@ export const content = {
   },
   Testimonials: {
     title: "Testimonials",
-    subtitle: "MY CLIENT REVIEWS",
+    subtitle: "OUR CLIENT REVIEWS",
     testimonials_content: [
       {
         review:
-          "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
+          "“Working with Aidemax was an absolute pleasure. They developed a stunning website for my business, exceeding all my expectations. Their attention to detail and commitment to delivering on time was impressive. Highly recommend their services!”",
         img: avatar1,
-        name: "JOHN DOE",
+        name: "JOHN JACKSON",
       },
       {
         review:
-          "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
+          "“I approached Aidemax for UI/UX design assistance, and I'm thrilled with the results. They created a beautiful and intuitive interface that perfectly reflects my brand. Their team was responsive, professional, and truly understood my vision. I couldn't be happier with the outcome.”",
         img: avatar2,
         name: "Tom Alex",
       },
       {
         review:
-          "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
+          "“I can't thank Aidemax enough for revamping our outdated website. Not only did they modernize the design, but they also optimized its performance, resulting in increased traffic and conversions. Their expertise in web development is unmatched, and I wouldn't hesitate to work with them again.”",
         img: avatar3,
         name: "Johnny",
       },
       {
         review:
-          "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
+          "“The Photoshop editing services provided by Aidemax were exceptional. They transformed our product images, making them look professional and polished. The quick turnaround time and attention to detail were impressive. Will definitely be using their services for future projects.”",
         img: avatar4,
         name: "ROBBIN",
       },
     ],
   },
   Hireme: {
-    title: "Hire Me",
+    title: "Hire US",
     subtitle: "FOR YOUR PROJECTS",
     image1: Hireme_person,
     image2: Hireme_person2,
-    para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
-    btnText: "Hire Me",
+    para: "Aidemax is a web development consultancy specializing in crafting custom websites, UI/UX design, and Photoshop editing services. Committed to innovation and excellence, they provide tailored solutions to meet each client's unique needs. With a customer-centric approach and a team of skilled professionals, Aidemax empowers businesses to thrive in the digital landscape.",
+    btnText: "Hire Us",
   },
   Contact: {
-    title: "Contect Me",
+    title: "Contact Us",
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "codeaprogram@gmail.com",
+        text: "support@aidemax.com",
         icon: GrMail,
-        link: "mailto:codeaprogram@gmail.com",
+        link: "mailto:support@44mart.com",
       },
       {
-        text: "+91 1234 56778",
+        text: "+1 760 383 1338",
         icon: MdCall,
-        link: "https://wa.me/1234567890",
+        link: "https://wa.me/7603831338",
       },
       {
-        text: "codeaprogram",
+        text: "aidemax",
         icon: BsInstagram,
-        link: "https://www.instagram.com/codeaprogram/",
+        link: "https://www.instagram.com/aidemax/",
       },
     ],
   },
   Footer: {
-    text: "All © Copy Right Reserved 2022",
+    text: "All © Copy Right Reserved 2024",
   },
 };
