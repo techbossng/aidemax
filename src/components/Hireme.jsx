@@ -35,7 +35,7 @@ const Hireme = () => {
             <br />
             <a
               className="btn bg-dark_primary text-white"
-              href="https://google.com"
+              href="https://buy.stripe.com/bIY5o0gLeaKl6cM9AA"
             >
               {Hireme.btnText}
             </a>
