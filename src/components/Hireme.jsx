@@ -36,6 +36,7 @@ const Hireme = () => {
             <a
               className="btn bg-dark_primary text-white"
               href="https://buy.stripe.com/bIY5o0gLeaKl6cM9AA"
+              target="_blank"
             >
               {Hireme.btnText}
             </a>
