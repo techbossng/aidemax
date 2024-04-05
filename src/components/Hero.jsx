@@ -23,8 +23,15 @@ const Hero = () => {
           <h2>{hero.title}</h2>
           <br />
           <div className="flex justify-end">
-            <button className="btn">{hero.btnText}</button>
+            <a
+              className="btn"
+              href="https://buy.stripe.com/bIY5o0gLeaKl6cM9AA"
+              target="_blank"
+            >
+              {hero.btnText}
+            </a>
           </div>
+
           <div className="flex flex-col gap-10 mt-10">
             {hero.hero_content.map((content, i) => (
               <div
@@ -38,9 +45,17 @@ const Hero = () => {
                 <p>{content.text}</p>
               </div>
             ))}
+              <div className="flex justify-end">
+          <a
+            className="btn bg-dark_primary text-white"
+            href="https://donate.stripe.com/7sI9Eg8eI6u50SseUV"
+            target="_blank"
+          >
+            {hero.btnTexxt}
+          </a>
+        </div>
           </div>
         </div>
-
         {/* sec col */}
         <div className="md:h-[37rem] h-96">
           <img

@@ -62,6 +62,7 @@ export const content = {
     firstName: "",
     LastName: "AIDEMAX",
     btnText: "Hire Us",
+    btnTexxt: "Donate",
     image: Hero_person,
     hero_content: [
       {
